@@ -1,4 +1,4 @@
-package com.megaIt.book.springboot.web;
+package com.megaIt.book.springboot.web.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
